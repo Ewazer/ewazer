@@ -1,4 +1,4 @@
-<h1 align="center">##Hi 👋, I'm Ewazer</h1>
+<h1 align="center">Hi 👋, I'm Ewazer</h1>
 
 <h3 align="center">A versatile developer from France, exploring a bit of everything.</h3>
 
