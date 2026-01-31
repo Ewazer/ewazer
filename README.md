@@ -2,7 +2,7 @@
 
 <h3 align="center">A versatile developer from France, exploring a bit of everything.</h3>
 
-- 🔭 I’m currently working on [Python Chess](https://github.com/Ewazer/chess).
+- 🔭 I’m currently working on [ChessCore](https://github.com/Ewazer/ChessCore).
 
 - 🌱 I’m currently learning **Ruby**
 
