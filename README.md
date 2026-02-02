@@ -8,3 +8,5 @@
 
 - 📫 How to reach me **contact@ewazer.com**
 
+[![Codewars badge](https://www.codewars.com/users/Ewazer/badges/large)](https://www.codewars.com/users/Ewazer)
+
